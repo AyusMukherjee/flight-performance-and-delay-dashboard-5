@@ -8,7 +8,7 @@ This is an interactive data dashboard built with **Streamlit** to analyze and vi
 ```bash
 # Clone the repository
 git clone https://github.com/AyusMukherjee/flight-performance-and-delay-dashboard.git
-cd flight-delay-dashboard
+cd flight-performance-and-delay-dashboard
 
 # Install requirements
 pip install -r requirements.txt
